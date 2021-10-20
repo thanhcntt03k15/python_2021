@@ -1,6 +1,7 @@
 Các đặc trưng cơ bản của python :
 +Ngôn ngữ lập trình cơ bản dễ học 
-vì : nó không quá phức tạp ở phần cú pháp , cụ thể là thay vì kết thúc một câu lệnh bằng ";" thì ta phải xuống dòng
+vì : nó không quá phức tạp ở phần cú pháp , cụ thể là thay vì kết thúc một câu lệnh bằng ";" thì ta 
+xuống dòng giúp phần code dễ nhìn
 +Mã nguồn mở :
 -giúp ta có khả năng cải thiện phần mềm
 +Hướng đối tượng :
